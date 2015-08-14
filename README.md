@@ -11,6 +11,5 @@ This GitHub repository houses the R codes and datasets for the 2-day course "Sta
 Please join the Facebook group http://www.facebook.com/groups/362299133928709/ for updates, enquiries, Q&A or just to say hi!
 
 
-Yusri Yusup, PhD
-
+Yusri Yusup, PhD  
 Instructor
