@@ -2,7 +2,7 @@
 
 ## About
 
-This repository houses the R codes and datasets for the 2-day course "Statistical Analyses using R" organized by the School of Industrial Technology, Universiti Sains Malaysia and USAINS Sdn Bhd. You will find the full codes, dataset, and figures separated into three folders:
+This GitHub repository houses the R codes and datasets for the 2-day course "Statistical Analyses using R" organized by the School of Industrial Technology, Universiti Sains Malaysia and USAINS Sdn Bhd. You will find the full codes, dataset, and figures separated into three folders:
 
 1. R - contains all the R scripts
 2. data - contains the dataset to work with the R scripts
