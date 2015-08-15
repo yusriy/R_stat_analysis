@@ -1,4 +1,4 @@
-# Statistical Analysis using R
+# Statistical Analyses using R
 
 ## About
 
