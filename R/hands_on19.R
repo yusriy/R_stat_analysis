@@ -1,8 +1,6 @@
 # Hands-on 19
 
-library(XLConnect)
-
-ho19_data <- readWorksheet(loadWorkbook('data/ho19_data.xlsx'),sheet=1)
+ho19_data <- read.csv(file = 'data/ho19_data.csv', header = TRUE)
 
 names(ho19_data) <- c('Cu','Cd')
 
