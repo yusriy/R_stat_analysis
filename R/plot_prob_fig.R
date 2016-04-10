@@ -1,11 +1,13 @@
 
 jpeg('figs/prob_fig.jpeg', height = 10, width = 16, res = 360, units = 'cm')
+
 par(mar=c(4,4,0.5,0.5))
 # Figure to plot probability distribution function
 x <- seq(-5,5,by=0.1)
 y <- dt(x,df=9)
 plot(x,y,xlab='Score',ylab='Probability',type='l')
 
+q <- qt(c(0.025,0.975),df=9)
 # To determine the end point of the shaded area
 i <- x[which(x < q[1])]
 i <- length(i) + 1  # Add one more point to produce a straight vertical line
